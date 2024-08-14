@@ -20,8 +20,8 @@ foodOnline is a Django web application designed for user to search nearby restau
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ningsssun/carzone_project
-   cd carzone_project
+   git clone https://github.com/ningsssun/food_online
+   cd food_online
 2. Setup virtual environment:
    ```bash
    python -m venv venv

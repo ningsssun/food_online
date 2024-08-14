@@ -1,6 +1,6 @@
 ## 🥘 foodOnline - A Fully-featured Restaurant Marketplace
 
-foodOnline is a Django web application designed for 3 roles: costumer can search nearby restaurants and order meals, restaurant can manage their restaurant online, and admin can manage the entire website.
+foodOnline is a Django web application designed for 3 roles: customer can search nearby restaurants and order meals, restaurant can manage their restaurant online, and admin can manage the entire website.
 
 ### ⚙️ Technical Stack
 

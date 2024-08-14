@@ -14,7 +14,7 @@ foodOnline is a Django web application designed for user to search nearby restau
 
 ### ⚙️ Features
 
-- 
+- working on this
 
 ### 👩‍💻 Local Setup
 

@@ -14,7 +14,8 @@ foodOnline is a Django web application designed for 3 roles: customer can search
 
 ### ⚙️ Features
 
-- working on this
+- Registration of customer and restaurant
+- working on more features...
 
 ### 👩‍💻 Local Setup
 

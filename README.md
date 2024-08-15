@@ -17,6 +17,9 @@ foodOnline is a Django web application designed for 3 roles: customer can search
 - Registration of customer and restaurant
 - working on more features...
 
+### ➰ Flowchart
+![foodOnline-Flowchart drawio](https://github.com/user-attachments/assets/cbe0499e-cd6e-4968-b31b-24559a522ef9)
+
 ### 👩‍💻 Local Setup
 
 1. Clone the repository:

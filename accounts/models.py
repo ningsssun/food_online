@@ -50,7 +50,7 @@ class User(AbstractBaseUser):
     last_name = models.CharField(max_length=50)
     username = models.CharField(max_length=50, unique=True)
     email = models.EmailField(max_length=100, unique=True)
-    phone_number = models.EmailField(max_length=12, blank=True)
+    phone_number = models.CharField(max_length=12, blank=True)
     role = models.PositiveSmallIntegerField(choices=ROLE_CHOICE, blank=True, null=True)
 
     # Required fields
@@ -95,5 +95,4 @@ class UserProfile(models.Model):
 
     def __str__(self):
         return self.user.email
-
 

@@ -8,7 +8,7 @@ foodOnline is a Django web application designed for 3 roles: customer can search
 - Frontend: HTML, CSS, Bootstrap
 - Database: PostgreSQL
 - Authentication: Login with Facebook, Login with Google
-- Email Service: 
+- Email Service: Gmail SMTP
 - Deployment: 
 - Other: 
 

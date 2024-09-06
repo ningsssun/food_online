@@ -161,4 +161,4 @@ EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = 'foodOnline Marketplace <developer.tttest@gmail.com>'
 
 
-GOOGLE_API_KEY = 'AIzaSyAnzkt5c7Si0V4P_dPoFbw9FDW5NeWHRkk'
+GOOGLE_API_KEY = config('GOOGLE_API_KEY')
